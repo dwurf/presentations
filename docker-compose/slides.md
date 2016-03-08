@@ -305,7 +305,7 @@ Note: end '
 
 * Some great presentations on web stacks:
     * [A New Default Web Stack](https://youtu.be/P68zXJ_ACCE) - Simon Willison (EventBrite)
-    * [The inner guts of Bitbucket](https://youtu.be/v=2ll2ER3wpus) - Erik van Zijst (Atlassian)
+    * [The inner guts of Bitbucket](https://youtu.be/2ll2ER3wpus) - Erik van Zijst (Atlassian)
 
 ---
 
